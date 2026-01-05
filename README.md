@@ -1,2 +1,2 @@
-# DedicatedDolphin-Firmware
-Dedicated Flipper Zero Firmware for DD org
+# DedicatedDolphin-Resources
+Dedicated Flipper Zero resources for DD org
