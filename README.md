@@ -6,4 +6,5 @@ Dedicated Flipper Zero resources for DD org
 - https://github.com/djsime1/awesome-flipperzero
 - https://github.com/UberGuidoZ/Flipper/tree/main
 - https://github.com/UberGuidoZ/Flipper-IRDB
+- https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB/tree/main
 - dd
