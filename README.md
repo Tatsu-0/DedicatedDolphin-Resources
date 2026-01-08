@@ -7,5 +7,4 @@ Dedicated Flipper Zero resources for DD org
 - https://github.com/UberGuidoZ/Flipper/tree/main
 - https://github.com/UberGuidoZ/Flipper-IRDB
 - https://github.com/ADolbyB/flipper-zero-files
-- https://github.com/FroggMaster/FlipperZero
 - dd
